@@ -142,12 +142,6 @@ nav ul li a {
     background-size: cover;
 }
 
-.blue-background {
-    background-color: var(--light-blue);
-    padding: 20px;
-    width: 75%;
-}
-
 #contact-me .section-content div {
     text-align: center;
 }
@@ -256,7 +250,7 @@ footer {
         background: var(--blue-white)
     }
 
-    #work .blue-background {
+    #work {
         background: rgba(154, 214, 210, 0.85)
     }
 
