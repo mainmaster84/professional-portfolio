@@ -142,6 +142,11 @@ nav ul li a {
     background-size: cover;
 }
 
+.bind {
+    background-image: url("../images/bind.png");
+    background-size: cover;
+}
+
 #contact-me .section-content div {
     text-align: center;
 }
