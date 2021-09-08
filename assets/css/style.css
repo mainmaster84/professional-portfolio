@@ -24,7 +24,6 @@ header {
 }
 
 header h1 {
-    background-color: var(--light-blue);
     display: block;
     text-align: center;
     align-items: center;
@@ -32,7 +31,7 @@ header h1 {
 
 header h1 a {
     text-decoration: none;
-    color: var(--navy);
+    color: var(--light-blue);
 }
 
 nav ul {
@@ -53,7 +52,6 @@ nav ul li a {
     font-size: large;
     color: var(--light-blue);
     padding: 10px;
-    border-bottom: 3px solid var(--light-blue);
     line-height: 3.0;
 }
 
